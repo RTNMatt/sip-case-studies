@@ -59,8 +59,3 @@ It is **not** a tutorial repository or a protocol reference. The focus is **judg
 ## **About This Repository**
 
 This repository documents anonymized production-grade incident scenarios to demonstrate practical troubleshooting methodology, cross-layer analysis, and operational decision-making. The focus is on how failures are identified, isolated, and resolved under real constraints, rather than on specific organizations, vendors, or environments.
-
----
-
-If you are reviewing this repository as part of an interview process, start with any case study—the structure is consistent, and each stands on its own.
-

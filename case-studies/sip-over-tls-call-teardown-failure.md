@@ -24,7 +24,7 @@
 
 * **Network**
 
-  * NAT present on the ESP side of the interconnect 
+  * NAT present on the ESP side of the interconnect
 
   * SIP over TLS (TCP, non-default port 5060\)
 
